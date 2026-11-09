@@ -1,0 +1,7 @@
+ragas
+deepeval
+pydantic
+numpy
+scipy
+pandas
+python-dotenv
